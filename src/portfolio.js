@@ -5,14 +5,14 @@ import github from './assets/img/icons/common/github.svg'
 import airbnb from './assets/img/icons/common/airbnbLogo.png'
 
 export const greetings = {
-    "name": "Hanzla Tauqeer",
-    "title": "Hi all, I'm Hanzla",
-    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-    "resumeLink": "https://cv.hanzla.ga"
+    "name": "Omoba George",
+    "title": "Hey, I'm George",
+    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Technical Support, Network and Hardware Maintenance Engineering, Data Management, Software Management and lately Blockchain Development. Having an experience of building and handling teams in building Websites, Web Apps and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and some other cool libraries, frameworks and Cross Platform Mobile Apps.",
+    "resumeLink": "https://drive.google.com/file/d/1MkPSk7xBRQU8mbtRIGsvHDOMViuxUaJn/view"
 }
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'omobadev',
 };
 
 export const contact = {
@@ -20,23 +20,23 @@ export const contact = {
 }
 
 export const socialLinks = {
-    "facebook": "https://www.facebook.com/1hanzla100",
-    "instagram": "https://www.instagram.com/1hanzla100",
-    "twitter": "https://twitter.com/1hanzla100",
-    "github": "https://github.com/1hanzla100",
-    "linkedin": "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/"
+    "facebook": "https://web.facebook.com/george.devlin.144/?viewas=100000686899395",
+    "instagram": "https://www.instagram.com/omoba_devlin?r=nametag",
+    "twitter": "#",
+    "github": "#",
+    "linkedin": "https://www.linkedin.com/in/george-omoba-3a957a93/"
 }
 
 export const skillsSection = {
     title: 'What I do',
-    subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+    subTitle: 'CRAZY TECH ENTHUSIAST / DEVELOPER WHO WANTS TO EXPLORE EVERYTHING TECH',
     skills: [
       emoji(
         '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
       ),
-      emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
+      emoji('⚡ Progressive Network and Hardware Maintenance / Repair and Upgrade'),
       emoji(
-        '⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean'
+        '⚡ Integration of all Modern Day technology as I take on New Experimental Projects'
       ),
     ],
     
@@ -50,16 +50,8 @@ export const skillsSection = {
         fontAwesomeClassname: 'vscode-icons:file-type-css',
       },
       {
-        skillName: 'sass',
-        fontAwesomeClassname: 'logos:sass',
-      },
-      {
         skillName: 'JavaScript',
         fontAwesomeClassname: 'logos:javascript',
-      },
-      {
-        skillName: 'TypeScript',
-        fontAwesomeClassname: 'logos:typescript-icon',
       },
       {
         skillName: 'reactjs',
@@ -74,10 +66,6 @@ export const skillsSection = {
         fontAwesomeClassname: 'logos:flutter',
       },
       {
-        skillName: 'swift',
-        fontAwesomeClassname: 'vscode-icons:file-type-swift',
-      },
-      {
         skillName: 'npm',
         fontAwesomeClassname: 'vscode-icons:file-type-npm',
       },
@@ -90,14 +78,6 @@ export const skillsSection = {
         fontAwesomeClassname: 'vscode-icons:file-type-mongo',
       },
       {
-        skillName: 'aws',
-        fontAwesomeClassname: 'logos:aws',
-      },
-      {
-        skillName: 'firebase',
-        fontAwesomeClassname: 'logos:firebase',
-      },
-      {
         skillName: 'python',
         fontAwesomeClassname: 'logos:python',
       },
@@ -105,106 +85,87 @@ export const skillsSection = {
         skillName: 'git',
         fontAwesomeClassname: 'logos:git-icon',
       },
-      {
-        skillName: 'docker',
-        fontAwesomeClassname: 'logos:docker-icon',
-      },
     ],
 }
 
 
 export const SkillBars = [
     {
-      Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-      progressPercentage: '90', //Insert relative proficiency in percentage
+      Stack: 'Product Management/Design', //Insert stack or technology you have experience in
+      progressPercentage: '80', //Insert relative proficiency in percentage
     },
     {
-      Stack: 'Backend',
+      Stack: 'IT Network/Hardware Engineering',
       progressPercentage: '70',
     },
     {
-      Stack: 'Programming',
+      Stack: 'Basketball',
+      progressPercentage: '80',
+    },
+    {
+      Stack: 'All Things Programming',
+      progressPercentage: '65',
+    },
+    {
+      Stack: 'Sketch Art',
       progressPercentage: '60',
     },
   ]
 
 export const educationInfo = [
     {
-      schoolName: 'Harvard University',
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
-    },
-    {
-      schoolName: 'Harvard',
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
-    },
-    {
-      schoolName: 'Stanford University',
+      schoolName: 'ISFOP-BENIN UNIVERSITY',
       subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'September 2013 - April 2017',
+      duration: 'September 2013 - October 2017',
       desc:
-        'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
+        'Ranked top 10% in the program. Took courses on Software Engineering, Artificial Intelligence, Web Security, Operating Systems, Etc.',
+      descBullets: ['Project work on the Hadoop Distribuition Framework'],
     },
 ]
 
 export const experience = [
   {
-    role: 'Software Engineer',
-    company: 'Google',
-    companylogo: googlelogo,
-    date: 'June 2018 – Present',
+    role: 'Technical Project/Product Manager',
+    company: 'Edrop Co',
+    companylogo: Edrop,
+    date: 'Nov 2019 – April 2020',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Generally over seeing all processes throughout product lifecycle',
     descBullets: [
-      'Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      'Working closely and quickly with a team of UI/UX Designer, Front/Back End developers, DevOps Engineer, Content Creator and Social media manager. To achieve a fully functional product ',
+      'Product roadmap and growth analysis',
     ],
   },
   {
-    role: 'Front-End Developer',
-    company: 'Github',
-    companylogo: github,
-    date: 'May 2017 – May 2018',
+    role: 'Product Manager',
+    company: 'PalmTaxy',
+    companylogo: PalmTaxy,
+    date: 'May 2019 – Sep 2019',
     desc:
-      'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Regular maintenance and troubleshooting of the mobile application. Working closely with the software developers in solving all customer related issues (Drivers/Riders).',
+      'Outsourcing and working closely with Influencers, media agents, radio stations.'
   },
   {
-    role: 'Software Engineer Intern',
-    company: 'Airbnb',
-    companylogo: airbnb,
-    date: 'Jan 2015 – Sep 2015',
+    role: 'Front-End Developer',
+    company: 'Riv TechCreek',
+    companylogo: TC,
+    date: 'Sep 2018 – March 2019',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'joining a team of Front-End developers, UI/UX Designers, Back-End developers and Dev-Ops Engineers to build a self learning Patient database for all Government Hospitals in the State.',
   },
 ]
 
 export const projects = [
   {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    name: "CayWoodBrown Foundation",
+    desc: "Lectured the youths on the basics of web design. CayWoodBrown is a Foundation started by the deputy Governor of Rivers State, in 2018 to Educate the youths on a few ICT Skills. ",
   },
   {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    name: "Riv TechCreek",
+    desc: "Part of a team tasked to build a group chat mobile application",
     link: {
-      name: "hanzla",
-      url: "kasjfklsdjf"
+      name: "Omoba",
+      url: "https://www.linkedin.com/in/george-omoba-3a957a93"
     }
   }
 ]
