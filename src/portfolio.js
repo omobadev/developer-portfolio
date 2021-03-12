@@ -142,8 +142,7 @@ export const experience = [
     companylogo: PalmTaxy,
     date: 'May 2019 – Sep 2019',
     desc:
-      'Regular maintenance and troubleshooting of the mobile application. Working closely with the software developers in solving all customer related issues (Drivers/Riders).',
-      'Outsourcing and working closely with Influencers, media agents, radio stations.'
+      'Regular maintenance and troubleshooting of the mobile application. Working closely with the software developers in solving all customer related issues Drivers/Riders.',  
   },
   {
     role: 'Front-End Developer',
