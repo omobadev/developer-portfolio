@@ -127,7 +127,7 @@ export const experience = [
   {
     role: 'Technical Project/Product Manager',
     company: 'Edrop Co',
-    companylogo: Edrop,
+    companylogo: E,
     date: 'Nov 2019 – April 2020',
     desc:
       'Generally over seeing all processes throughout product lifecycle',
