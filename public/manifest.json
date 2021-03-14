@@ -1,10 +1,10 @@
 {
   "short_name": "Portfolio",
-  "name": "Hanzla's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer.",
+  "name": "George's Portfolio",
+  "description": "INNOVATIVE TECH ENTHUSIAST / DEVELOPER / SKETCH ARTIST.",
     "icons": [
       {
-        "src": "./favicon.png",
+        "src": "./favicon2.png",
         "type": "image/png",
         "sizes": "192x192"
       },

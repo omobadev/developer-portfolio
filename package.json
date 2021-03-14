@@ -1,7 +1,7 @@
 {
   "name": "developer-portfolio",
   "version": "1.0.0",
-  "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+  "description": "Developer Portfolio built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -62,3 +62,4 @@
     "typescript": "3.7.5"
   }
 }
+

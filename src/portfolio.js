@@ -1,13 +1,13 @@
 import emoji from 'react-easy-emoji';
 
-import googlelogo from './assets/img/icons/common/google.svg'
-import github from './assets/img/icons/common/github.svg'
-import airbnb from './assets/img/icons/common/airbnbLogo.png'
+import Edrop from './assets/img/icons/common/Edrop.png'
+import PalmTaxy from './assets/img/icons/common/PalmTaxy.png'
+import TC from './assets/img/icons/common/TC.png'
 
 export const greetings = {
     "name": "Omoba George",
-    "title": "Hey, I'm George",
-    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Technical Support, Network and Hardware Maintenance Engineering, Data Management, Software Management and lately Blockchain Development. Having an experience of building and handling teams in building Websites, Web Apps and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and some other cool libraries, frameworks and Cross Platform Mobile Apps.",
+    "title": "Hey There, I'm George........ Omoba George",
+    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Technical Support, Network and Hardware Maintenance Engineering, Data Management, Software Management and lately Blockchain Development. Having an experience of building and handling teams in building Websites, Web Apps and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and some other cool libraries, frameworks and Cross Platform Mobile Apps. A huge Linux OS Fan.",
     "resumeLink": "https://drive.google.com/file/d/1MkPSk7xBRQU8mbtRIGsvHDOMViuxUaJn/view"
 }
 
@@ -23,16 +23,16 @@ export const socialLinks = {
     "facebook": "https://web.facebook.com/george.devlin.144/?viewas=100000686899395",
     "instagram": "https://www.instagram.com/omoba_devlin?r=nametag",
     "twitter": "#",
-    "github": "#",
+    "github": "https://github.com/omobadev",
     "linkedin": "https://www.linkedin.com/in/george-omoba-3a957a93/"
 }
 
 export const skillsSection = {
     title: 'What I do',
-    subTitle: 'CRAZY TECH ENTHUSIAST / DEVELOPER WHO WANTS TO EXPLORE EVERYTHING TECH',
+    subTitle: 'INNOVATIVE TECH ENTHUSIAST / DEVELOPER / SKETCH ARTIST WHO WANTS TO EXPLORE EVERYTHING DESIGN AND PRODUCTION',
     skills: [
       emoji(
-        '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
+        '⚡ Develop highly innovative Products / applications'
       ),
       emoji('⚡ Progressive Network and Hardware Maintenance / Repair and Upgrade'),
       emoji(
@@ -103,7 +103,7 @@ export const SkillBars = [
       progressPercentage: '80',
     },
     {
-      Stack: 'All Things Programming',
+      Stack: 'Programming Stack',
       progressPercentage: '65',
     },
     {
@@ -127,7 +127,7 @@ export const experience = [
   {
     role: 'Technical Project/Product Manager',
     company: 'Edrop Co',
-    companylogo: E,
+    companylogo: Edrop,
     date: 'Nov 2019 – April 2020',
     desc:
       'Generally over seeing all processes throughout product lifecycle',
@@ -163,7 +163,7 @@ export const projects = [
     name: "Riv TechCreek",
     desc: "Part of a team tasked to build a group chat mobile application",
     link: {
-      name: "Omoba",
+      name: "George",
       url: "https://www.linkedin.com/in/george-omoba-3a957a93"
     }
   }
