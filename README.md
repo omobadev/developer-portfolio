@@ -1,9 +1,9 @@
 # developer-portfolio <a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a> 
-## Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.
+## Developer Portfolio built with react.js bootstrap that helps you showcase your work and skills as a developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/omobadev/devportfolio/blob/master/picture.jpg"></img>
   </kbd>
 </p>
 
