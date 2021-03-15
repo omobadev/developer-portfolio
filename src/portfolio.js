@@ -130,10 +130,7 @@ export const experience = [
     companylogo: Edrop,
     date: 'Nov 2019 – April 2020',
     desc:
-      'Generally over seeing all processes throughout product lifecycle',
-    descBullets: [
-      'Working closely and quickly with a team of UI/UX Designer, Front/Back End developers, DevOps Engineer, Content Creator and Social media manager. To achieve a fully functional product ',
-    ],
+      'Generally over seeing all processes throughout product lifecycle. Working closely with a team of UI/UX Designer, Front/Back End developers, DevOps Engineer, Content Creator/Social media manager. To achieve a fully functional product.',
   },
   {
     role: 'Product Manager',
@@ -141,7 +138,7 @@ export const experience = [
     companylogo: PalmTaxy,
     date: 'May 2019 – Sep 2019',
     desc:
-      'Regular maintenance and troubleshooting of the mobile application. Working intensively with the software developers in solving all customer related issues Drivers/Riders.',  
+      'Regular maintenance and troubleshooting of the mobile application. Working with the software developers in solving all customer related issues Drivers/Riders.',  
   },
   {
     role: 'Front-End Developer',
