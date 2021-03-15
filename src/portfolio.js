@@ -6,8 +6,8 @@ import TC from './assets/img/icons/common/TC.png'
 
 export const greetings = {
     "name": "Omoba George",
-    "title": "Hey There, I'm George........ Omoba George",
-    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Technical Support, Network and Hardware Maintenance Engineering, Data Management, Software Management and lately Blockchain Development. Having an experience of building and handling teams in building Websites, Web Apps and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and some other cool libraries, frameworks and Cross Platform Mobile Apps. A huge Linux OS Fan.",
+    "title": "Hey there, I'm George.",
+    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Network/Hardware Maintenance Engineering, Data, Software Testing/Management and lately Blockchain Development. Having an experience in building and handling teams in building Websites, Web and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and other cool libraries, frameworks and Cross Platform Mobile Apps. 'A huge Linux OS Fan'.",
     "resumeLink": "https://drive.google.com/file/d/1MkPSk7xBRQU8mbtRIGsvHDOMViuxUaJn/view"
 }
 
@@ -133,7 +133,6 @@ export const experience = [
       'Generally over seeing all processes throughout product lifecycle',
     descBullets: [
       'Working closely and quickly with a team of UI/UX Designer, Front/Back End developers, DevOps Engineer, Content Creator and Social media manager. To achieve a fully functional product ',
-      'Product roadmap and growth analysis',
     ],
   },
   {
@@ -142,7 +141,7 @@ export const experience = [
     companylogo: PalmTaxy,
     date: 'May 2019 – Sep 2019',
     desc:
-      'Regular maintenance and troubleshooting of the mobile application. Working closely with the software developers in solving all customer related issues Drivers/Riders.',  
+      'Regular maintenance and troubleshooting of the mobile application. Working intensively with the software developers in solving all customer related issues Drivers/Riders.',  
   },
   {
     role: 'Front-End Developer',
@@ -161,7 +160,7 @@ export const projects = [
   },
   {
     name: "Riv TechCreek",
-    desc: "Part of a team tasked to build a group chat mobile application",
+    desc: "Part of a team tasked to build a group-chat mobile application",
     link: {
       name: "George",
       url: "https://www.linkedin.com/in/george-omoba-3a957a93"
