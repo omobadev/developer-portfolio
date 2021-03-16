@@ -7,8 +7,8 @@ import TC from './assets/img/icons/common/TC.png'
 export const greetings = {
     "name": "Omoba George",
     "title": "Hey there, I'm George.",
-    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Network/Hardware Maintenance Engineering, Data, Software Testing/Management and lately Blockchain Development. Having an experience in building and handling teams in building Websites, Web and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and other cool libraries, frameworks and Cross Platform Mobile Apps. 'A huge Linux OS Fan'.",
-    "resumeLink": "https://drive.google.com/file/d/1MkPSk7xBRQU8mbtRIGsvHDOMViuxUaJn/view"
+    "description": "A passionate IT Enthusiast with skills in Product Management, Front-End Web Developement, Network/Hardware Maintenance Engineering, Data, Software Testing/Management and lately Blockchain Development. Having an experience building and handling teams in building Websites, Web and Mobile Apps with JavaScript / Reactjs / Nodejs / Python / Django / Flask / C++ / PHP and other cool libraries, frameworks and Cross Platform Mobile Apps. 'A huge Linux OS Fan'.",
+    "resumeLink": "https://drive.google.com/file/d/1O4XVEH6PWTJ1UIhlWaw-ALlNIef4xJjh/view?usp=sharing"
 }
 
 export const openSource = {
@@ -20,7 +20,7 @@ export const contact = {
 }
 
 export const socialLinks = {
-    "facebook": "https://web.facebook.com/george.devlin.144/?viewas=100000686899395",
+    "facebook": "https://www.facebook.com/george.devlin.144",
     "instagram": "https://www.instagram.com/omoba_devlin?r=nametag",
     "twitter": "#",
     "github": "https://github.com/omobadev",
@@ -32,7 +32,7 @@ export const skillsSection = {
     subTitle: 'INNOVATIVE TECH ENTHUSIAST / DEVELOPER / SKETCH ARTIST WHO WANTS TO EXPLORE EVERYTHING DESIGN AND PRODUCTION',
     skills: [
       emoji(
-        '⚡ Develop highly innovative Products / applications'
+        '⚡ Develop highly innovative Products / Applications'
       ),
       emoji('⚡ Progressive Network and Hardware Maintenance / Repair and Upgrade'),
       emoji(
@@ -119,7 +119,7 @@ export const educationInfo = [
       duration: 'September 2013 - October 2017',
       desc:
         'Ranked top 10% in the program. Took courses on Software Engineering, Artificial Intelligence, Web Security, Operating Systems, Etc.',
-      descBullets: ['Project work on the Hadoop Distribuition Framework'],
+      descBullets: ['Project work on the Hadoop Framework Distribution System.'],
     },
 ]
 
