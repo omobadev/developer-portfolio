@@ -55,7 +55,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone https://github.com/omobadev/devportfolio.git
 
 # Go into the repository
 $ cd developer-portfolio
